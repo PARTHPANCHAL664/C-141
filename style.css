@@ -1,0 +1,64 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#restart_b
+{
+    color: aqua;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(112, 109, 109);
+    
+}
+
+#play_b
+{
+    background-color: red;
+    height: 40px;
+    width: 85px;
+    font-size: 22px;
+    font-weight: bold;
+    color:white;
+}
+
+li
+{
+    text-align: center;
+    
+}
+
+h1
+{
+    color: cornflowerblue;
+    font-family: 'Oswald', sans-serif;
+    position: center ;
+    margin-left: 175px;
+}
+
+#instruction_b
+{
+    float: right;
+    font-size: 30px;
+    margin-right:5px;
+    margin-bottom: 28px;
+    border-radius: 0;
+}
+
+#footer
+{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(230, 39, 55);
+    color: rgb(255, 255, 255);
+    height: 27px;
+    font-size: 15px;
+    font-weight: 600;
+}
+canvas
+{
+    margin-top: 100px;
+}
